@@ -1,5 +1,5 @@
 #this is one way
-yprint "hello world!"
+print "hello world!"
 
 #this is another way
 puts "hello neptune!"
